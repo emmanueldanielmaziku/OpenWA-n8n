@@ -23,6 +23,7 @@
   <img src="https://img.shields.io/badge/n8n-community_node-EA4B71.svg" alt="n8n community node"/>
   <img src="https://img.shields.io/badge/OpenWA-%E2%89%A5%200.16.0-25D366.svg" alt="OpenWA >= 0.16.0"/>
   <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License"/>
+  <a href="https://buymeacoffee.com/rmyndharis"><img src="https://img.shields.io/badge/Buy_Me_a_Coffee-support-FFDD00?logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee"/></a>
 </p>
 
 ---
@@ -455,6 +456,14 @@ CI runs one further gate on top: the n8n Creator Portal scanner (see
 - [OpenWA Documentation](https://github.com/rmyndharis/OpenWA/tree/main/docs)
 - [OpenWA API Reference](https://github.com/rmyndharis/OpenWA/blob/main/docs/06-api-specification.md)
 - [n8n Community Nodes](https://docs.n8n.io/integrations/community-nodes/)
+
+---
+
+## ☕ Support
+
+If these nodes save you time, you can support OpenWA development by buying me a coffee.
+
+<a href="https://buymeacoffee.com/rmyndharis"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="50"/></a>
 
 ---
 
